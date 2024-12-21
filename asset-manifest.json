@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/natorina/static/css/main.825b4934.css",
-    "main.js": "/natorina/static/js/main.fd463bd4.js",
+    "main.js": "/natorina/static/js/main.4c8d7597.js",
     "static/js/488.be9369de.chunk.js": "/natorina/static/js/488.be9369de.chunk.js",
     "index.html": "/natorina/index.html",
     "main.825b4934.css.map": "/natorina/static/css/main.825b4934.css.map",
-    "main.fd463bd4.js.map": "/natorina/static/js/main.fd463bd4.js.map",
+    "main.4c8d7597.js.map": "/natorina/static/js/main.4c8d7597.js.map",
     "488.be9369de.chunk.js.map": "/natorina/static/js/488.be9369de.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.825b4934.css",
-    "static/js/main.fd463bd4.js"
+    "static/js/main.4c8d7597.js"
   ]
 }
