@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/natorina/static/css/main.825b4934.css",
+    "main.js": "/natorina/static/js/main.794c84fb.js",
+    "static/js/488.be9369de.chunk.js": "/natorina/static/js/488.be9369de.chunk.js",
+    "index.html": "/natorina/index.html",
+    "main.825b4934.css.map": "/natorina/static/css/main.825b4934.css.map",
+    "main.794c84fb.js.map": "/natorina/static/js/main.794c84fb.js.map",
+    "488.be9369de.chunk.js.map": "/natorina/static/js/488.be9369de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.825b4934.css",
+    "static/js/main.794c84fb.js"
+  ]
+}
